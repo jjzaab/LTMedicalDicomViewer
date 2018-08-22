@@ -1,9 +1,9 @@
 # LTMedicalDicomViewer
 .NET Core Winforms Medical Dicom Viewer using LEADTOOLS
 
-The following project utilizes the LEADTOOLS Dicom and Dicom Viewer libraries to enable users open and display medical Dicom files. Dicom Tags such as the Patient Name, Date of Birth(DOB), and Age, are automatically parsed and displayed within the Viewer.
+The following project utilizes the LEADTOOLS Dicom and Dicom Viewer libraries to enable users open and display medical Dicom files. Dicom Tags such as the Patient Name, Patient ID, Date of Birth(DOB), Age, and Sex, are automatically parsed and displayed within the Viewer.
 
-Additional controls such as Window Leveling are mapped to the left-mouse button to let enable users to view the file with finer detail.
+Additional controls such as Window-Leveling are mapped to the left-mouse button to let enable users to view the file with finer detail.
 
 More information an be found at the links below:
 
